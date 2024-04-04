@@ -13,6 +13,8 @@
 ✨ I'm a Electrical Engineer passionate about Machine Learning and Deep Learning. 
 
 
+
+
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
@@ -22,9 +24,9 @@
 
 - 💼 Currently working at [CODIIS](https://www.codiis.com/index.html).
 
-- :seedling: Currently learning **LLMs**,
+- :seedling: Currently learning **LLMs**.
 
-- :penguin: **Linux** 
+- :penguin: **Linux** is :heart:.
 
 - ⚡ Fun fact: I enjoy cooking and designing my own clothes.
   
