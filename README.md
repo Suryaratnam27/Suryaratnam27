@@ -18,9 +18,13 @@
 
 - 😄 My Pronouns: She/Her   
 
-- 💬 Ask me about: PyTorch,MLOps, .
+- 💬 Ask me about: Deploying ML models at scale.
 
 - 💼 Currently working at [CODIIS](https://www.codiis.com/index.html).
+
+- :seedling: Currently learning **LLMs**,
+
+- :penguin: **Linux** 
 
 - ⚡ Fun fact: I enjoy cooking and designing my own clothes.
   
