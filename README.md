@@ -22,7 +22,7 @@
 
 - 💼 Currently working at [CODIIS](https://www.codiis.com/index.html).
 
-- ⚡ Fun fact: I enjoy cooking and design my own clothes.
+- ⚡ Fun fact: I enjoy cooking and designing my own clothes.
   
 <!-- About section: END -->
 
