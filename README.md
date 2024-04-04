@@ -20,18 +20,12 @@
 
 - 💬 Ask me about: PyTorch,MLOps, .
 
-- 🌐 Currently working at [CODIIS](https://www.codiis.com/index.html).
+- 💼 Currently working at [CODIIS](https://www.codiis.com/index.html).
 
 - ⚡ Fun fact: I enjoy cooking and design my own clothes.
   
 <!-- About section: END -->
 
-
-
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
 
 <!-- THE END -->
 
