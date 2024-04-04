@@ -20,6 +20,8 @@
 
 - 💬 Ask me about: PyTorch,MLOps, .
 
+- 🌐 Currently working as MAchine Learning Engineer at [CODIIS](https://www.codiis.com/index.html).
+
 - ⚡ Fun fact: I enjoy cooking and design my own clothes.
   
 <!-- About section: END -->
